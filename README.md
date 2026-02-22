@@ -22,5 +22,5 @@ This project analyzes customer churn behavior for an E-Commerce platform with 5,
 - Business Analysis
 
 ## 📈 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
